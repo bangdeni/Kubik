@@ -1,0 +1,2 @@
+# Kubik
+script kubik bot
